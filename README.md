@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-👋 Hi there, I'm Hao - the Full-Stack Software Engineer! 💻
+I'm Hao - the Full-Stack Software Engineer! 💻
 
 👨‍💻 As a passionate about coding especially Javascript stuffs, I live and breathe coding, making it an integral part of my life's journey. 💡
 

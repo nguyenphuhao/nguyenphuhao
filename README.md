@@ -1,6 +1,4 @@
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
 🤔 I'm Hao, a Full-Stack Software Engineer. I passionate about coding especially Javascript, I live and breathe coding, making it an integral part of my life's journey
 
 📚 Hello morning with a cup of coffee and a captivating book make my day full of energy. 
